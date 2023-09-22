@@ -12,7 +12,8 @@
 
 - 🔭 I’m currently working on **An e-Commerce web app where you can buy and sell anything**
 
-- 🌱 I’m currently learning **NextJS,**
+- 🌱 I’m currently learning **NextJS,**![image](https://github.com/MicahBala/micahbala/assets/35384160/04d8f45f-1c1c-44ec-9696-0407e409c4a2)
+
 
 - 👯 I’m looking to collaborate on **Any React Project**
 
