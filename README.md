@@ -1,5 +1,5 @@
-### Hi there 👋
 ![image](https://github.com/MicahBala/micahbala/assets/35384160/dbf459ee-618d-4891-8a50-af11c165e609)
+### Hi there 👋
 
 <!--
 **MicahBala/micahbala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
