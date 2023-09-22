@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Micah Bala</h1>
 <h3 align="center">A frontend developer from Nigeria who likes to solve problems using technology, and loves to keep abreast with trends in technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=micahbala&label=Profile%20views&color=0e75b6&style=flat" alt="micahbala" /> </p>
+<p align="right" width="200px"> <img src="https://komarev.com/ghpvc/?username=micahbala&label=Profile%20views&color=0e75b6&style=flat" alt="micahbala" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=micahbala" alt="micahbala" /></a> </p>
 
