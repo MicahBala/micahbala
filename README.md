@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Micah Bala</h1>
 <h3 align="center">A frontend developer from Nigeria who likes to solve problems using technology, and loves to keep abreast with trends in technology.</h3>
 
-<p align="right" width="200px"> <img src="https://komarev.com/ghpvc/?username=micahbala&label=Profile%20views&color=0e75b6&style=flat" alt="micahbala" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=micahbala&label=Profile%20views&color=0e75b6&style=flat" alt="micahbala" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=micahbala" alt="micahbala" /></a> </p>
 
@@ -12,9 +12,8 @@
 
 - 🔭 I’m currently working on **An e-Commerce web app where you can buy and sell anything**
 
-- 🌱 I’m currently learning **NextJS,**![image](https://github.com/MicahBala/micahbala/assets/35384160/04d8f45f-1c1c-44ec-9696-0407e409c4a2)
-
-
+- 🌱 I’m currently learning **NextJS,**
+  
 - 👯 I’m looking to collaborate on **Any React Project**
 
 - 👨‍💻 All of my projects are available at [https://micahbala.github.io/](https://micahbala.github.io/)
